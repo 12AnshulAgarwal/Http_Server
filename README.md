@@ -26,3 +26,10 @@ npm install express
 
 ### 3.Run the server
 node index.js
+
+
+Testing the API
+You can use Postman to test the API endpoints:
+
+For GET requests, simply navigate to http://localhost:3000/.
+For POST, PUT, and DELETE requests, send the corresponding request to http://localhost:3000/ with the appropriate body (if needed).
